@@ -3,7 +3,10 @@
 
 于是，我就写了一个批处理脚本，可以方便的控制 clash 的启动和关闭，下载配置文件，添加到开机启动等。
 
-外行所写，大佬轻拍
+外行所写，大佬轻拍。
+
+友情项目：[ClashWeb](https://github.com/lzdnico/ClashWeb) - 基于 python 的 web 控制端，操作更直观简单。
+
 ![](https://raw.githubusercontent.com/pcysanji/Clash-Web-Bat/master/screenshot/screenshot1.png)
 
 ## 软件介绍
