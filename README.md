@@ -5,10 +5,12 @@
 
 外行所写，大佬轻拍。
 
+![](https://raw.githubusercontent.com/pcysanji/Clash-Web-Bat/master/screenshot/screenshot1.png)
+
+
 ### 友情项目
 [ClashWeb](https://github.com/lzdnico/ClashWeb) - 基于 python 的 web 控制端，操作更直观简单。
 
-![](https://raw.githubusercontent.com/pcysanji/Clash-Web-Bat/master/screenshot/screenshot1.png)
 
 ## 软件介绍
 此版使用的内核是 clashr - 解锁网易云音乐版。还用到了 Razord 面板和 [subconverter](https://github.com/tindy2013/subconverter/)。
