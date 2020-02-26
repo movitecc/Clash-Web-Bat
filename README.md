@@ -5,7 +5,8 @@
 
 外行所写，大佬轻拍。
 
-友情项目：[ClashWeb](https://github.com/lzdnico/ClashWeb) - 基于 python 的 web 控制端，操作更直观简单。
+### 友情项目
+[ClashWeb](https://github.com/lzdnico/ClashWeb) - 基于 python 的 web 控制端，操作更直观简单。
 
 ![](https://raw.githubusercontent.com/pcysanji/Clash-Web-Bat/master/screenshot/screenshot1.png)
 
